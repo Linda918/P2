@@ -1,0 +1,26 @@
+.Header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 100%;
+    min-height: 8vh;
+    font-size: calc(10px + 2vmin);
+    box-sizing: border-box;
+    border: 2px solid rgb(101, 1, 126);
+}
+
+h1{
+    color: rgb(163, 112, 175);
+}
+
+h4{
+    color: rgb(163, 112, 175);
+}
+
+.logo{
+    width: 12vh;
+}
